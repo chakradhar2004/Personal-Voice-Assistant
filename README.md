@@ -65,10 +65,10 @@ python main.py
 ## 📸 Screenshots
 
 ### 👋 Welcome Screen
-![Welcome Screen](screenshots/welcome.png)
+![Welcome Screen](Screenshots/welcome.png)
 
 ### 💬 Assistant Introduction
-![Assistant Intro](screenshots/intro.png)
+![Assistant Intro](Screenshots/intro.png)
 
 ---
 

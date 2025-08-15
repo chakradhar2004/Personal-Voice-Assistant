@@ -1,4 +1,4 @@
-# 🎙 Personal Voice Assistant — EDITH
+# 🎙 Personal Voice Assistant — CORAL
 
 A **Personal Voice Assistant** designed to provide an efficient and user-friendly experience for a wide range of users.  
 With this voice assistant, you can easily access information, perform tasks, and receive personalized recommendations using **voice commands**.

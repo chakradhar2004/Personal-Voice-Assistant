@@ -70,11 +70,5 @@ python main.py
 ### 💬 Assistant Introduction
 ![Assistant Intro](screenshots/intro.png)
 
-### 🎙 Listening Mode
-![Listening](screenshots/listening.png)
-
-### 📄 Response Example
-![Response](screenshots/response.png)
-
 ---
 
